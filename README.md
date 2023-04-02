@@ -1,14 +1,14 @@
 # WechatPCAPI
 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。可用于二次开发在线微信机器人、微信消息监控、群控软件、开发界面作多个微信控制软件等用途。
 
-**当前版本:@钊@**
+**当前版本:**
 
 当前版本是免费版本
 
 另有更稳定、更可靠、更强大的付费版本，点这里了解。[付费版本README](https://github.com/Mocha-L/WechatPCAPI/blob/master/README-BO.md)
 
 **如果帮到你，帮我点个star。**
-遇到问题可以提Issues，或关注公众号“燕幕自安”联系我。
+遇到问题可以提Issues，或关注公众号“刘大辉在路上”联系我。
 
 
 ## 延伸项目
@@ -19,10 +19,7 @@ https://github.com/elliot-bia/msg_reply
 
 https://github.com/mortimer-cra/AlarmRobot （微信提醒喵）
 
-## 版本功能区别
 
-<img src="https://github.com/Mocha-L/WechatPCAPI/blob/master/%E5%85%8D%E8%B4%B9%E7%89%88%E4%BB%98%E8%B4%B9%E7%89%88%E5%8C%BA%E5%88%AB.png" width="660px" />
-看不到图的话，代码目录也有，可以下载查看或进Q群查看。
 
 ## 怎么用？
 
@@ -44,9 +41,7 @@ python 3.7.4 不是该版本可能会报错dll load 错误
 
 现在不支持百度网盘更新了，请进群获取最新版本代码和相关文件，有问题也可以在群里咨询讨论。
 
-**QQ群：579737590**(广告实在太多了，加了1元付费入群)
 
-![QQ群](https://github.com/Mocha-L/wechat_wegoing/blob/master/image/qq.png)
 
 ## 遇到问题？
 
@@ -129,13 +124,12 @@ python 3.7.4 不是该版本可能会报错dll load 错误
 
 ## 联系我
 
-关注微信公众号“燕幕自安”，即可获取我的联系方式。
+关注微信公众号“刘大辉在路上”，即可获取我的联系方式。
 
 ## 赞赏我
 
 支持作者继续更新，请我喝杯咖啡
 
-<img src="https://github.com/Mocha-L/findtheone/blob/master/pic/ali.png" width="230px" /><img src="https://github.com/Mocha-L/findtheone/blob/master/pic/wechat.png" width="230px" />
 
 ## 声明
 
